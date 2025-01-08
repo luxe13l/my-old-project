@@ -909,10 +909,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: de8a710f-1b31-48c2-baf7-1897de36a948
+  cloudProjectId: a8ec4315-0ef7-46a5-aebf-e5fb0fb60863
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Car Parking L 2025-01-08_13-02-06
+  projectName: Car Parking L
   organizationId: levastaev
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
