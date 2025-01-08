@@ -348,6 +348,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/CarController.cs"
 "Assets/Scripts/RoadFinishTrigger.cs"
+"Assets/Scripts/SetMoney.cs"
 "Assets/Scripts/StartGame.cs"
 -langversion:9.0
 
